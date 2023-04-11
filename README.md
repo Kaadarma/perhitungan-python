@@ -3,6 +3,7 @@ Python adalah bahasa pemrograman tingkat tinggi yang digunakan untuk pengembanga
 
 Python dapat dijalankan pada berbagai platform seperti Windows, Linux, dan macOS. Bahasa ini mendukung berbagai paradigma pemrograman, termasuk pemrograman berorientasi objek, fungsional, dan prosedural.
 
+#Instalasi Python
 Instalasi Python
 Anda dapat mengunduh dan menginstal Python dari situs web resmi Python di python.org. Setelah mengunduh installer yang sesuai dengan sistem operasi Anda, ikuti instruksi pada layar untuk menginstal Python.
 
