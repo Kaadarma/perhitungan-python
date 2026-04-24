@@ -1,4 +1,4 @@
-# Python
+# Tentang Python
 Python adalah bahasa pemrograman tingkat tinggi yang digunakan untuk pengembangan web, ilmu data, otomatisasi tugas, dan banyak lagi. Python adalah bahasa pemrograman yang mudah dipelajari dan memiliki sintaksis yang sederhana, sehingga cocok untuk pemula.
 
 Python dapat dijalankan pada berbagai platform seperti Windows, Linux, dan macOS. Bahasa ini mendukung berbagai paradigma pemrograman, termasuk pemrograman berorientasi objek, fungsional, dan prosedural.
